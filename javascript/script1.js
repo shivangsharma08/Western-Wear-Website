@@ -1,4 +1,4 @@
-<script>
+
 //FOR JEAN 1
 function changeImage1() {
 var image = document.getElementById('myImage1');
@@ -158,4 +158,4 @@ function carousel() {
   x[myIndex-1].style.display = "block";  
   setTimeout(carousel, 2000); // Change image every 2 seconds
 }
-</script>
+
